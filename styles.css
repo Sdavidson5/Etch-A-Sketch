@@ -1,0 +1,7 @@
+.grid{
+display: grid;
+grid-column-start: 1;
+grid-column-end: 16;
+grid-row-start: 1;
+grid-row-end: 16;
+}
